@@ -6,6 +6,7 @@
 
 **I have worked on those projects:**
 ------------------------
+- www.larabangla.com
 - www.powerwebit.com
 - www.techpathfinders.com
 - www.imgpaper.com
