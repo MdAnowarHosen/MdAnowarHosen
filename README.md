@@ -7,6 +7,7 @@
 **I have worked on those projects:**
 ------------------------
 - www.larabangla.com
+- wishesimg.com
 - www.imgpaper.com
 - www.powerwebit.com
 - www.ourrajshahi.com
