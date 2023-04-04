@@ -12,7 +12,7 @@
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
-- www.banglarkobita.com -> dcma page,system, auth system
+- www.banglarkobita.com
 
 
 <!---
