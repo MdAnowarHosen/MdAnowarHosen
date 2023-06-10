@@ -12,6 +12,7 @@
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
+- https://www.fornaxcrypto.com
 - www.banglarkobita.com
 
 
