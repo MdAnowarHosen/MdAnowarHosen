@@ -14,7 +14,7 @@
 - www.techpathfinders.com
 - www.fornaxcrypto.com
 - www.banglarkobita.com
-- www.bcsebook.com/
+- www.bcsebook.com
 
 
 <!---
