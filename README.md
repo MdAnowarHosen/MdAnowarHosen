@@ -12,10 +12,10 @@
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
-- www.fornaxcrypto.com
+- www.fornaxcrypto.com | cripto currency website
 - www.banglarkobita.com
-- www.bcsebook.com
-- www.treatmenticwl.com #dsd /** adds */
+- www.bcsebook.com | education app backend
+- www.treatmenticwl.com | doctor appoinment app backend
 
 
 <!---
