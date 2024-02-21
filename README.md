@@ -12,10 +12,11 @@
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
-- www.fornaxcrypto.com | cripto currency website
+- www.fornaxcrypto.com | investment website
+- www.investyre.com | investment website
 - www.banglarkobita.com
 - www.bcsebook.com | education app backend
-- www.treatmenticwl.com | doctor appoinment app backend
+- www.treatmentandcure.com | doctor appoinment app backend
 - www.wcnlimited.com | company website
 
 
