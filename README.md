@@ -9,6 +9,7 @@
 - www.larabangla.com
 - www.wishesimg.com
 - www.imgpaper.com
+- www.sattacademy.com
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
