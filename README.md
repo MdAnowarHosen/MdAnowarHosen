@@ -15,8 +15,6 @@
 - www.techpathfinders.com
 - www.fornaxcrypto.com | investment website
 - www.investyre.com | investment website
-- www.banglarkobita.com
-- www.bcsebook.com | education app backend
 - www.treatmentandcure.com | doctor appoinment app backend
 - www.wcnlimited.com | company website
 
