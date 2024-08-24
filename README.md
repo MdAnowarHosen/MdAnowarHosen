@@ -16,7 +16,6 @@
 - www.fornaxcrypto.com | investment website
 - www.investyre.com | investment website
 - www.treatmentandcure.com | doctor appoinment app backend
-- www.wcnlimited.com | company website
 
 
 <!---
