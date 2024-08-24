@@ -8,11 +8,11 @@
 ------------------------
 - www.sattacademy.com (partial work: Subscription system with payment Gatway, Content restriction, deposit-withdrawal etc system)
 - www.imgpaper.com (I only 1 developer developed that marketplace)
-- www.larabangla.com
-- www.wishesimg.com
-- www.powerwebit.com
-- www.ourrajshahi.com
-- www.techpathfinders.com
+- www.larabangla.com (Own project)
+- www.wishesimg.com (Own project)
+- www.powerwebit.com (I only 1 developer developed that website) 
+- www.ourrajshahi.com  (partial work on api)
+- www.techpathfinders.com  (I only 1 developer developed that website) 
 - www.investyre.com |  (I only 1 developer developed that investment website) 
 - www.treatmentandcure.com |  (I only 1 developer developed that doctor appoinment app backend)  
 
