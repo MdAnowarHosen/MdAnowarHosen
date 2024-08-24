@@ -6,7 +6,7 @@
 
 **I have worked on those projects:**
 ------------------------
-- www.sattacademy.com
+- www.sattacademy.com (partial work: Subscription system with payment Gatway, Content restriction, deposit-withdrawal etc system)
 - www.imgpaper.com
 - www.larabangla.com
 - www.wishesimg.com
