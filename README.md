@@ -7,15 +7,14 @@
 **I have worked on those projects:**
 ------------------------
 - www.sattacademy.com (partial work: Subscription system with payment Gatway, Content restriction, deposit-withdrawal etc system)
-- www.imgpaper.com
+- www.imgpaper.com (I only 1 developer developed that marketplace)
 - www.larabangla.com
 - www.wishesimg.com
 - www.powerwebit.com
 - www.ourrajshahi.com
 - www.techpathfinders.com
-- www.fornaxcrypto.com | investment website
-- www.investyre.com | investment website
-- www.treatmentandcure.com | doctor appoinment app backend
+- www.investyre.com |  (I only 1 developer developed that investment website) 
+- www.treatmentandcure.com |  (I only 1 developer developed that doctor appoinment app backend)  
 
 
 <!---
